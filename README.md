@@ -47,7 +47,3 @@ Ce portfolio est destiné à être un exemple de mon travail. N'hésitez pas à 
 ## Auteurs
 
     Mohamed Boulatika - mohamed-044
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.

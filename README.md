@@ -9,8 +9,7 @@ Bienvenue dans le dépôt de mon portfolio personnel, créé avec React ! Ce pro
 - [Technologies Utilisées](#technologies-utilisées)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Auteurs](#auteurs)
-- [Licence](#licence)
+- [Auteur](#auteur)
   
 
 
@@ -44,6 +43,6 @@ Ce portfolio est conçu pour afficher les projets sur lesquels j'ai travaillé, 
 
 Ce portfolio est destiné à être un exemple de mon travail. N'hésitez pas à parcourir le code source et les composants pour en apprendre plus sur ma méthodologie et mes compétences en React.
 
-## Auteurs
+## Auteur
 
     Mohamed Boulatika - mohamed-044

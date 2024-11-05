@@ -38,11 +38,29 @@ Ce portfolio est conçu pour afficher les projets sur lesquels j'ai travaillé, 
 1. Clonez le dépôt :
    ```bash
    git clone git@github.com:mohamed-044/portfolio-react.git
+2. Accédez au dossier du projet :
 
+    ```bash
+    
+    cd portfolio-react
+
+3. Installez les dépendances :
+
+    ```bash
+    
+    npm install
+
+4. Lancez l'application :
+
+    ```bash
+    
+    npm start
+
+Le site sera accessible à l'adresse http://localhost:3000.
 ## Utilisation
 
 Ce portfolio est destiné à être un exemple de mon travail. N'hésitez pas à parcourir le code source et les composants pour en apprendre plus sur ma méthodologie et mes compétences en React.
 
 ## Auteur
 
-    Mohamed Boulatika - mohamed-044
+Mohamed Boulatika - mohamed-044
